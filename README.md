@@ -1,2 +1,3 @@
-# nextjs-project
- 
+## Sammi NextJS Tutorial
+
+# Source code
